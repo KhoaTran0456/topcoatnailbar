@@ -378,7 +378,7 @@ Table of contents
 }
 .box-description{
 		position: absolute;
-		bottom: 0;
+		bottom: 5;
 		background: rgba(0,0,0, 0.4);
 		z-index: 99;
 }
